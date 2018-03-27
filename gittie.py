@@ -20,3 +20,8 @@ def adding():
 
 adding()
 
+def shout():
+    print("Hello world, WOAAA!")
+
+shout()
+
